@@ -2,7 +2,7 @@
 # About myself
 I am Amitoz Kaur Rehan, student of GNDEC pursuing my BTECH in Computer Science Engineering. I have completed my schooling from Nankana Sahib Public School and scored 91% overall.
 # My Excel certificate
-![certificate](Ammy Rehan.png)
+![certificate](Ammyrehan.jpg)
 
 # Daily activity report of student induction program 2024
 | Date | Resource Person | Activity Done |
