@@ -1,6 +1,3 @@
 # Amitozrehan.github.io
-Activity update for student induction program 2024
-| Date | Resource person | Activity done |
-| ----------- | ----------- | ---------- |
-| 15-07-2024 | Dr Pyare Lal Garg | Told us strategies how to ace in your goals |
-| Paragraph | Text |
+#About myself
+I am Amitoz Kaur Rehan, student of GNDEC pursuing my BTECH in Computer Science Engineering. I have completed my schooling from Nankana Sahib Public School and scored 91% overall.
