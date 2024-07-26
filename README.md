@@ -3,6 +3,7 @@
 I am Amitoz Kaur Rehan, student of GNDEC pursuing my BTECH in Computer Science Engineering. I have completed my schooling from Nankana Sahib Public School and scored 91% overall.
 # My Excel certificate
 ![certificate](42d7d96d-669b-4930-befb-15c0444bf0f3.jpeg)
+I recently completed an MS Excel course through www.mygreatLearning.com , and it has been a highly great experience. It offers a wide range of tools for data management, analysis, and visualization.
 # Daily activity report of student induction program 2024
 | Date | Resource Person | Activity Done |
 | ----------- | ----------- | --------- |
@@ -18,4 +19,4 @@ I am Amitoz Kaur Rehan, student of GNDEC pursuing my BTECH in Computer Science E
 | 23-07-2024 | Neeraj Kumar | Maths class and learned some new formula of integration. |
 | 24-07-2024 | Causmic Club | Gave more information about causmic club. |
 | 25-07-2024 | Peer Interaction (Technical) | Seniors of GNDEC explained us about artificial intelligence ,machine learning and some more information about Excel so that we can ease in our upcoming induction program test. |
-| 26-07-2024 | 
+
