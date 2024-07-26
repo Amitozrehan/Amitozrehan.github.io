@@ -4,7 +4,6 @@ I am Amitoz Kaur Rehan, student of GNDEC pursuing my BTECH in Computer Science E
 # My Excel certificate
 
 ![certificate](AmmyRehan.png)
-
 # Daily activity report of student induction program 2024
 | Date | Resource Person | Activity Done |
 | ----------- | ----------- | --------- |
